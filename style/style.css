@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#divone {
+    background-color: #F7F4FF;
+    padding: 12px 24px;
+    width: 1183px;
+    margin-left: auto;
+}
+#nextmove {
+    width: 147px;
+    margin-right: 270px;
+    display: inline-block;
+}
+#ulone, #about, #what, #contact, #help, #navi {
+    display: inline-block;
+}
+#ulone {
+    list-style-type: none;
+}
+#what {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#contact {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#help {
+    margin-right: 290px;
+}
+#contactus {
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    color: #8E26C0;
+    background-color: #F7F4FF;
+}
+#imgone {
+    width: 610px;
+    margin: auto;
+    display: inline-block;
+}
+#boxone {
+    max-width: 1299px;
+    margin: 0 auto;
+    vertical-align: middle;
+}
+#textone {
+    color: #535862;
+    font-size: 20px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#whatwe {
+    color: #000;
+    font-size: 40px;
+    text-align: center;
+    
+}
+#olone {
+    color: #000;
+    text-align: left; 
+    font-size: 24px;
+    list-style-position: inside;
+}
+#boxtwo {
+    max-width: 644px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 30px;
+}
+#boxthree {
+    max-width: 610px;
+    display: inline-block;
+    vertical-align: middle;
+}
+#fullbox {
+    margin-top: 154px;
+}
+#fl {
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+#reco {
+    margin-top: 12px;
+}
