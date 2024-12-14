@@ -88,3 +88,91 @@
 #reco {
     margin-top: 12px;
 }
+#yuterti {
+    width: 905px;
+    display: inline-block;
+    text-align: center;
+}
+#hc {
+    text-align: center;
+    color: #000;
+    font-size: 56px;
+}
+#yutt {
+    width: 905px;
+    display: inline-block;
+}
+#texttwo {
+    text-align: center;
+    color: #535862;
+    font-size: 20px;
+    margin-top: 18px;
+    margin-bottom: 28px;
+}
+#mtliani {
+    width: 1221px;
+    text-align: center;
+    margin: auto;
+}
+#oriertshi {
+    width: 1221px;
+    padding: 32px;
+    border-radius: 16px;
+    background: #F7F4FF;
+    margin: auto;
+}
+#erti {
+    padding: 20px;
+    width:403px;
+    border-radius: 16px;
+    background-color: #FFF;
+}
+#adresa {
+    padding: 10px;
+    width: 56px;
+    border-radius: 50px;
+    background-color: #F7F4FF;
+    display: inline-block;
+}
+h3 {
+    color: #000;
+    font-size: 20px;
+}
+#adresasp {
+    color: #6D5F8B;
+    font-size: 16px;
+}
+#mailicon {
+    width: 56px;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: #F7F4FF;
+}
+#emailp {
+    font-size: 16px;
+    color: #6D5F8B;
+}
+#telicon {
+    width: 56px;
+    padding: 10px;
+    border-radius: 50px;
+    background-color: #F7F4FF;
+}
+#phoneid {
+    font-size: 16px;
+    color: #6D5F8B;
+}
+#adresash {
+    width: 291px;
+    display: inline-block;
+}
+#adresasp {
+    width: 291px;
+    display: inline-block;
+}
+#adresasbox { 
+    max-width:363px;
+    vertical-align: middle;
+    display: inline-block;
+}
+    
