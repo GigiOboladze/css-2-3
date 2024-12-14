@@ -132,47 +132,71 @@
     width: 56px;
     border-radius: 50px;
     background-color: #F7F4FF;
-    display: inline-block;
+    vertical-align: middle;
+    margin-right: 16px;
 }
-h3 {
+#adresp {
+    text-align: left;
     color: #000;
     font-size: 20px;
 }
-#adresasp {
-    color: #6D5F8B;
-    font-size: 16px;
-}
-#mailicon {
-    width: 56px;
-    padding: 10px;
-    border-radius: 50px;
-    background-color: #F7F4FF;
-}
-#emailp {
-    font-size: 16px;
-    color: #6D5F8B;
-}
-#telicon {
-    width: 56px;
-    padding: 10px;
-    border-radius: 50px;
-    background-color: #F7F4FF;
-}
-#phoneid {
-    font-size: 16px;
-    color: #6D5F8B;
-}
-#adresash {
-    width: 291px;
-    display: inline-block;
-}
-#adresasp {
-    width: 291px;
-    display: inline-block;
-}
 #adresasbox { 
-    max-width:363px;
-    vertical-align: middle;
     display: inline-block;
+    vertical-align: middle;
 }
-    
+#adresasi {
+    text-align: left;
+}
+#maila {
+    padding: 10px;
+    width: 56px;
+    border-radius: 50px;
+    background-color: #F7F4FF;
+    vertical-align: middle;
+    margin-right: 16px;
+}
+#mailasbox {
+    display: inline-block;
+    vertical-align: middle;
+}
+#mailp {
+    text-align: left;
+    color: #000;
+    font-size: 20px;
+}
+#mailasi {
+    text-align: left;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+#telefonasi {
+    text-align: left;
+}
+#telefona {
+    padding: 10px;
+    width: 56px;
+    border-radius: 50px;
+    background-color: #F7F4FF;
+    vertical-align: middle;
+    margin-right: 16px;
+}
+#telefonasbox {
+    display: inline-block;
+    vertical-align: middle;
+}
+#telefonp {
+    color: #000;
+    font-size: 20px;
+}
+#pirvelii {
+    color: #6D5F8B;
+    font-size: 16px;
+}
+#meoree {
+    color: #6D5F8B;
+    font-size: 16px;
+}
+#mesamee {
+    color: #6D5F8B;
+    font-size: 16px;
+}
