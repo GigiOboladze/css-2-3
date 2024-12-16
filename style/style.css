@@ -120,6 +120,7 @@
     border-radius: 16px;
     background: #F7F4FF;
     margin: auto;
+    text-align: left;
 }
 #erti {
     padding: 20px;
@@ -203,4 +204,61 @@
     color: #6D5F8B;
     font-size: 16px;
 }
+label {
+    display: block;
+    font-size: 14px;
+    color: #1B003D;
+    margin-bottom: 8px;
+}
+#ori {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 24px;
+    width: 700px;
+}
+#snd {
+    color: #1B003D;
+    font-size: 32px;
+    margin-bottom: 16px;
+}
+#pleasewrite {
+    max-width: 730px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    margin-bottom: 24px;
+}
+#urmail {
+    max-width: 730px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: 1px solid #8E26C0;
+    margin-bottom: 24px;
+}
+#writesmth {
+    border-radius: 16px;
+    border: 1px solid #8E26C0;
+    padding: 12px 16px;
+    height: 146px;
+    max-width: 730px;
+    width: 100%;
+    display: block;
+    resize: none;
+    margin-bottom: 24px;
+}
+#sendbutton {
+    color: #FFF;
+    background-color: #8E26C0;
+    border-radius: 8px;
+    width: 140px;
+    padding: 12px 24px;
+    font-size: 16px;
+}
+#butttondiv {
+    max-width: 730px;
+    width: 100%;
+    text-align: right;
+}
+
+
 
