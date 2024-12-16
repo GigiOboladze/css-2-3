@@ -253,12 +253,87 @@ label {
     width: 140px;
     padding: 12px 24px;
     font-size: 16px;
+    border: none;
 }
-#butttondiv {
+#buttondiv {
     max-width: 730px;
     width: 100%;
     text-align: right;
 }
+footer {
+    background-color: #53389E;
+    padding: 64px 0px 48px 0px;
+    margin-top: 163px;
+}
+#footerdiv {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+#rowone a {
+    display: block;
+    text-decoration: none;
+}
+#rowtwo a {
+    display: block;
+    text-decoration: none;
+}
+#rowthree a {
+    display: block;
+    text-decoration: none;
+}
+#rowfour a {
+    display: block;
+    text-decoration: none;
+}
+#rowfive a {
+    display: block;
+    text-decoration: none;
+}
+#rowsix a {
+    display: block;
+    text-decoration: none;
+}
+#rowone, #rowtwo, #rowthree, #rowfour, #rowfive, #rowsix {
+    display: inline-block;
+}
+a {
+    margin-top: 10px;
+    color: #E9D7FE;
+    margin-left: 20px;
+}
+#pr, #co, #re, #us, #so, #le {
+    margin-left: 20px;
+    color: #D6BBFB;
+}
+#kveita {
+    max-width: 1221px;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 35px;
+    padding-bottom: 48px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#untitled {
+    width: 97px;
+    margin-left: 5px;
+    vertical-align: middle;
+    margin-right: 200px;
+}
+#copyright {
+    display: inline-block;
+    vertical-align: middle;
+    color: #D6BBFB;
+    font-size: 16px;
+}
+#wertila {
+    vertical-align: middle;
+}
+
+
+
 
 
 
