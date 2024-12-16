@@ -126,7 +126,13 @@
     width:403px;
     border-radius: 16px;
     background-color: #FFF;
+    height: 474px;
+    display: inline-block;
 }
+#adresasi {
+    text-align: left;
+}
+
 #adresa {
     padding: 10px;
     width: 56px;
@@ -144,8 +150,14 @@
     display: inline-block;
     vertical-align: middle;
 }
-#adresasi {
+#pirvelii {
+    color: #6D5F8B;
+    font-size: 16px;
+}
+#mailasi {
     text-align: left;
+    margin-top: 24px;
+    margin-bottom: 24px;
 }
 #maila {
     padding: 10px;
@@ -164,10 +176,9 @@
     color: #000;
     font-size: 20px;
 }
-#mailasi {
-    text-align: left;
-    margin-top: 24px;
-    margin-bottom: 24px;
+#meoree {
+    color: #6D5F8B;
+    font-size: 16px;
 }
 #telefonasi {
     text-align: left;
@@ -188,15 +199,8 @@
     color: #000;
     font-size: 20px;
 }
-#pirvelii {
-    color: #6D5F8B;
-    font-size: 16px;
-}
-#meoree {
-    color: #6D5F8B;
-    font-size: 16px;
-}
 #mesamee {
     color: #6D5F8B;
     font-size: 16px;
 }
+
